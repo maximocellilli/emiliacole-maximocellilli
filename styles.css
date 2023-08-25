@@ -1,0 +1,119 @@
+.bodyIndex {
+    background-image: url(/img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.bodyAbout {
+    background-image: url(/img/about.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+/* GLOBALES E INDEX */
+
+.itemsNavegacion {
+    font-family: 'Raleway', sans-serif;
+    padding-left: 4%;
+    padding-top: 0.5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
+
+.a {
+    text-decoration: none;
+    color:darkgray;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.seccionNavegacion {
+    font-family: 'Raleway', sans-serif;
+}
+
+.seccionIndex {
+    font-family: 'Raleway', sans-serif;
+}
+
+.emilaColeIndex {
+    padding-top: 7%;
+    font-size: 50px;
+    color: rgb(70, 70, 70);
+    font-style:normal;
+    letter-spacing: 10px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.twistIndex {
+    margin-top: 15%;
+    font-size: 70px;
+    font-weight:900;
+    background-color: aliceblue;
+    opacity: 0.4;
+}
+
+/* ABOUT */
+
+.seccionAbout {
+    margin-top: 3.5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
+
+pre {
+    background: rgba(245, 243, 243, 0.281);
+    color: #3b9f8e;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.TextosAbout {
+    background: rgba(245, 243, 243, 0.281);
+    color: #3b9f8e;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* CONTACTO */
+
+.mapa {
+    width: 100%;
+}
+
+.Contact {
+    padding-top: 2%;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-style:normal;
+    letter-spacing: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+
+.ContactInfo {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ContactDiv {
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.NombresContacto {
+    font-family: 'Raleway', sans-serif;
+    color: #64c0b1;
+    font-size: 20px;
+}
+
+.TelefonoContacto {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    margin-bottom: 0.5%;
+}
